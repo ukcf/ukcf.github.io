@@ -33,8 +33,8 @@
 title: UK Carrom Federation
 subtitle: Carrom in the UK
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the site developed and maintained by UKCF
-  which is dedicated to the promotion of the game of Carrom in UK
+  This site is developed and maintained by UKCF, an organisation
+  dedicated to promotion of the game of Carrom in UK
 author: Amar Sanakal
 email: amar@sanakal.com
 avatar: assets/images/avatar.jpg
@@ -61,8 +61,3 @@ google_analytics:
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
 collections: [sections]
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
